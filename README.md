@@ -1,6 +1,6 @@
 # Online Advertising Performance Analysis and Click Prediction
 
-A Python data science project for VS Code, using the supplied Company X dataset from 1 April to 30 June 2020. All money amounts are USD.
+A Python data science project , using the supplied Company X dataset from 1 April to 30 June 2020. All money amounts are USD.
 
 ## Start here
 
