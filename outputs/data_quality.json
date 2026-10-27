@@ -1,0 +1,15 @@
+{
+  "source_rows": 15408,
+  "empty_columns_removed": [
+    "Unnamed: 12",
+    "Unnamed: 13"
+  ],
+  "missing_placement_rows": 413,
+  "exact_duplicate_rows_retained": 5,
+  "conversions_above_clicks_rows": 329,
+  "conversions_without_clicks_rows": 31,
+  "clicks_above_displays_rows": 2,
+  "observed_days": 91,
+  "date_min": "2020-04-01",
+  "date_max": "2020-06-30"
+}
